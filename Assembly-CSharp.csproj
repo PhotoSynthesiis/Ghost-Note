@@ -47,10 +47,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SimpleParticlePack\Scripts\ParticleTester.cs" />
+     <Compile Include="Assets\script\NPC_Dialog.cs" />
+     <Compile Include="Assets\script\Npc_dialog_detect.cs" />
      <Compile Include="Assets\script\firemovement1.cs" />
      <Compile Include="Assets\script\firemovement2.cs" />
      <Compile Include="Assets\script\firemovement3.cs" />
      <Compile Include="Assets\script\firemovement4.cs" />
+     <Compile Include="Assets\script\flashlight.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -47,10 +47,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\SimpleParticlePack\Scripts\ParticleTester.cs" />
+     <Compile Include="Assets\script\NPC_Dialog.cs" />
+     <Compile Include="Assets\script\Npc_dialog_detect.cs" />
      <Compile Include="Assets\script\firemovement1.cs" />
      <Compile Include="Assets\script\firemovement2.cs" />
      <Compile Include="Assets\script\firemovement3.cs" />
      <Compile Include="Assets\script\firemovement4.cs" />
+     <Compile Include="Assets\script\flashlight.cs" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/yangye/Ghost Note_Pixel/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

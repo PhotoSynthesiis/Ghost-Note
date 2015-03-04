@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/firemovement4.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Npc_dialog_detect.cs">
     <Files>
-      <File FileName="Assets/script/firemovement4.cs" Line="18" Column="79" />
+      <File FileName="Assets/script/Npc_dialog_detect.cs" Line="64" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
